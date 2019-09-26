@@ -1,0 +1,9 @@
+.jumbotron {
+    background: rgb(0, 0, 71);
+    color: white;
+}
+
+.nyt-banner,
+.search-parameters {
+    margin: auto;
+}
